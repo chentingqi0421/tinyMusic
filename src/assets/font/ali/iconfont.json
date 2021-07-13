@@ -1,0 +1,72 @@
+{
+  "id": "2373231",
+  "name": "play",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11428241",
+      "name": "音乐列表-01",
+      "font_class": "music-list",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "2621071",
+      "name": "ZHX_随机",
+      "font_class": "random02",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "647455",
+      "name": "播放",
+      "font_class": "play",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "12036455",
+      "name": "循环01",
+      "font_class": "circulation",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "12036466",
+      "name": "循环02",
+      "font_class": "single-circulation",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "13137514",
+      "name": "上一首未点击",
+      "font_class": "step-backward",
+      "unicode": "e727",
+      "unicode_decimal": 59175
+    },
+    {
+      "icon_id": "13137518",
+      "name": "下一首未点击",
+      "font_class": "step-forward",
+      "unicode": "e728",
+      "unicode_decimal": 59176
+    },
+    {
+      "icon_id": "16562583",
+      "name": "随机",
+      "font_class": "random",
+      "unicode": "e6da",
+      "unicode_decimal": 59098
+    },
+    {
+      "icon_id": "19663518",
+      "name": "暂停",
+      "font_class": "pause",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    }
+  ]
+}
